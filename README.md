@@ -3,6 +3,12 @@
 
 Ansible role to install and configure vaultwarden [cli tool](https://github.com/doy/rbw) on various linux systems.
 
+
+> This role is currently being migrated to a [collection](https://github.com/bodsch/ansible-collection-vaultwarden).  
+> Please submit issues and pull requests against this collection!
+
+---
+
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-rbw/main.yml?branch=main)][ci]
 [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-rbw)][issues]
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-rbw)][releases]
